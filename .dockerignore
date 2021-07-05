@@ -1,0 +1,16 @@
+.git
+node_modules
+.gitattributes
+.gitignore
+Dockerfile
+docker-compose.env
+docker-compose.yml
+test
+data
+dist
+k8s
+Makefile
+.env
+.vscode
+.drone.yml
+.makerc
